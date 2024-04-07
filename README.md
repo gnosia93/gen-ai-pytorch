@@ -13,6 +13,10 @@
 
 
 
+## DDP ##
+
+* [[Pytorch] Distributed package 를 이용한 분산학습으로 Multi-GPU 효율적으로 사용하기](https://csm-kr.tistory.com/47)
+
 ## 참고자료 ##
 
 * [Pytorch 딥러닝 입문](https://wikidocs.net/book/2788)
