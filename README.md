@@ -13,9 +13,10 @@
 
 
 
-## DDP ##
+## Pytorch ##
 
 * [[Pytorch] Distributed package 를 이용한 분산학습으로 Multi-GPU 효율적으로 사용하기](https://csm-kr.tistory.com/47)
+* [torchvision의 transform으로 이미지 정규화하기](https://teddylee777.github.io/pytorch/torchvision-transform/#google_vignette)
 
 ## 참고자료 ##
 
