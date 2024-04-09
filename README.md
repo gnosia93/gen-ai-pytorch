@@ -4,6 +4,10 @@
 * Distrubuted Trainning
 * Hugging Face.
 
+---
+
+* [😎ChatGPT는 어떻게 학습할까요_ChatGPT 대화형 언어모델 소개 (feat, 챗봇)😎](https://www.youtube.com/watch?v=vziygFrRlZ4)
+
 ## Fine Tunning ##
 
 * [PEFT LoRA Explained in Detail - Fine-Tune your LLM on your local GPU](https://www.youtube.com/watch?v=YVU5wAA6Txo)
