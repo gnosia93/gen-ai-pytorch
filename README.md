@@ -1,5 +1,5 @@
 ## Model ##
-* LLma
+* [LLaMA](https://www.youtube.com/watch?v=jvYpv9VJBOA)
 * Alphaca
 * Distrubuted Trainning
 * Hugging Face.
