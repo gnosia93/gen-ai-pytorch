@@ -16,6 +16,7 @@
 * [torchvision의 transform으로 이미지 정규화하기](https://teddylee777.github.io/pytorch/torchvision-transform/#google_vignette)
 * [Python Ray 사용법 - Python 병렬처리, 분산처리](https://zzsza.github.io/mlops/2021/01/03/python-ray/)
 * [Pytorch - torch.size(0)](https://noanomal.tistory.com/6)
+* [Numpy Tril()](https://runebook.dev/ko/docs/numpy/reference/generated/numpy.tril)
 * [pytorch로 구현하는 Transformer](https://cpm0722.github.io/pytorch-implementation/transformer)   ** 쉽게 설명한 글이다.
   
 ## 참고자료 ##
