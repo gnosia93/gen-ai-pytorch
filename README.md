@@ -1,6 +1,6 @@
 ## Model ##
 * [LLaMA](https://www.youtube.com/watch?v=jvYpv9VJBOA)
-* Alphaca
+* Alpaca
 * Distrubuted Trainning
 * Hugging Face.
 
