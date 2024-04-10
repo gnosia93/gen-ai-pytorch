@@ -8,6 +8,13 @@
   - [8Bit Quantization](https://flonelin.wordpress.com/2023/12/23/8bit-quantization/)
 
 
+## 코드분석 ##
+
+### Alpaca ###
+* [스탠포드 알파카 Stanford Alpaca 코드리뷰](https://www.youtube.com/watch?v=dLo4QkEq-Hg)
+* []()
+
+
 ## 참고자료 ##
 
 * [모두를 위한 대규모 언어 모델 LLM(Large Language Model) Part 1 - Llama 2 Fine-Tuning 해보기](https://www.inflearn.com/course/%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8-llm-part1#curriculum)
