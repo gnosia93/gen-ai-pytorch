@@ -11,7 +11,7 @@
 ## 코드분석 ##
 
 ### Alpaca ###
-* [스탠포드 알파카 Stanford Alpaca 코드리뷰](https://www.youtube.com/watch?v=dLo4QkEq-Hg)
+* [스탠포드 알파카 Stanford Alpaca 코드리뷰](https://www.youtube.com/watch?v=dLo4QkEq-Hg) - 훈련방식과 학습용 데이터 공개
 * []()
 
 
