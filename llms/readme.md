@@ -10,4 +10,4 @@
 
 ## 참고자료 ##
 
-* https://www.inflearn.com/course/%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8-llm-part1#curriculum
+* [모두를 위한 대규모 언어 모델 LLM(Large Language Model) Part 1 - Llama 2 Fine-Tuning 해보기](https://www.inflearn.com/course/%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%96%B8%EC%96%B4%EB%AA%A8%EB%8D%B8-llm-part1#curriculum)
