@@ -15,6 +15,9 @@
   - https://github.com/tatsu-lab/stanford_alpaca   
 * []()
 
+## 파인튜닝 ##
+
+* [Finetuning Large Language Models](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)
 
 ## 참고자료 ##
 
