@@ -18,6 +18,7 @@
 ## 파인튜닝 ##
 
 * [Finetuning Large Language Models](https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction)
+* https://pytorch.org/tutorials/index.html
 
 ## 참고자료 ##
 
