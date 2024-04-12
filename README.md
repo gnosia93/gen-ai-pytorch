@@ -32,6 +32,9 @@
 * [Numpy Tril()](https://runebook.dev/ko/docs/numpy/reference/generated/numpy.tril)
 * [torch.argmax / torch.max](https://velog.io/@jarvis_geun/torch.argmax-torch.max)
 * [pytorch로 구현하는 Transformer](https://cpm0722.github.io/pytorch-implementation/transformer)   ** 쉽게 설명한 글이다.
+
+---
+* [Pytorch Profiler](https://pytorch.org/tutorials/beginner/profiler.html)
   
 ## 참고자료 ##
 
