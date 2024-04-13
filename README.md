@@ -1,5 +1,7 @@
+## Lambda Coud GPU ##
 * https://lambdalabs.com/service/gpu-cloud#pricing
-
+* [Cloud Storage Tutorial on Lambda GPU Cloud](https://www.youtube.com/watch?v=TuBN9T4Fci8)
+  
 ## Model ##
 * [LLaMA](https://www.youtube.com/watch?v=jvYpv9VJBOA)
   * https://github.com/meta-llama/llama 
