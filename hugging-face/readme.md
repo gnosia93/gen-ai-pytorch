@@ -19,6 +19,9 @@ print(device)
 !nvidia-smi
 ```
 
+### Trainer.train() ###
+
+
 ### QLora ###
 
 * [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
