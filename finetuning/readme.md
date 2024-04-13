@@ -22,6 +22,9 @@
   32:57 Load your Adapter-tuned PEFT - LoRA model
   ```
 * [PEFT LoRA Explained in Detail - Fine-Tune your LLM on your local GPU](https://www.youtube.com/watch?v=YVU5wAA6Txo&list=PLgy71-0-2-F0pjx9R09G_ACYTfsYJtuyg&index=8)
+```
+AdapterHub and HuggingFace's new PEFT library focus on parameter-efficient fine-tuning of transformer models (LLM for language, Stable Diffusion for images, Vision Transformer for vision) for reduced memory size
+```
 
 ### ..###
 * [Stanford's new ALPACA 7B LLM explained - Fine-tune code and data set for DIY](https://www.youtube.com/watch?v=j6dqO2dSF9c&list=PLgy71-0-2-F0pjx9R09G_ACYTfsYJtuyg&index=9)
