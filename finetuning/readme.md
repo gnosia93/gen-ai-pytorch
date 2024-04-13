@@ -30,7 +30,7 @@
 ## Pytorch Distributed Training ##
 
 * [Distributed package으로 Multi-Node Multi-GPU 학습 알아보기](https://csm-kr.tistory.com/89)
-* https://leimao.github.io/blog/PyTorch-Distributed-Training/
+* [PyTorch Distributed Training](https://leimao.github.io/blog/PyTorch-Distributed-Training/)
 
 
 ## 참고자료 ##
