@@ -1,3 +1,5 @@
+* https://lambdalabs.com/service/gpu-cloud#pricing
+
 ## Model ##
 * [LLaMA](https://www.youtube.com/watch?v=jvYpv9VJBOA)
   * https://github.com/meta-llama/llama 
