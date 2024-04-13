@@ -27,8 +27,9 @@
   (LLM for language, Stable Diffusion for images, Vision Transformer for vision) for reduced memory size
   ```
 
-### .. ###
 * [Stanford's new ALPACA 7B LLM explained - Fine-tune code and data set for DIY](https://www.youtube.com/watch?v=j6dqO2dSF9c&list=PLgy71-0-2-F0pjx9R09G_ACYTfsYJtuyg&index=9)
+
+### .. ###
 
 * [How to finetune your own Alpaca 7B](https://www.youtube.com/watch?v=LSoqyynKU9E)
 
