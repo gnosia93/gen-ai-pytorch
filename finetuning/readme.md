@@ -24,3 +24,8 @@
 * [How to finetune your own Alpaca 7B](https://www.youtube.com/watch?v=LSoqyynKU9E)
 
 * https://github.com/tloen/alpaca-lora
+
+
+## 참고자료 ##
+
+* https://www.youtube.com/playlist?list=PLgy71-0-2-F0pjx9R09G_ACYTfsYJtuyg
