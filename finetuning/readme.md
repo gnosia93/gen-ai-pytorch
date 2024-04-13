@@ -1,5 +1,7 @@
 * https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction
 
+
+### LoRA ###
 * [Boost Fine-Tuning Performance of LLM: Optimal Architecture w/ PEFT LoRA Adapter-Tuning on Your GPU](https://www.youtube.com/watch?v=A-a-l_sFtYM)
   ```
   00:00 PEFT source code (LoRA, pre-fix tuning,..)
@@ -19,9 +21,10 @@
   31:30 Run inference of new PEFT - LoRA adapter - tuned LLM
   32:57 Load your Adapter-tuned PEFT - LoRA model
   ```
+* [PEFT LoRA Explained in Detail - Fine-Tune your LLM on your local GPU](https://www.youtube.com/watch?v=YVU5wAA6Txo&list=PLgy71-0-2-F0pjx9R09G_ACYTfsYJtuyg&index=8)
 
+### ..###
 * [Stanford's new ALPACA 7B LLM explained - Fine-tune code and data set for DIY](https://www.youtube.com/watch?v=j6dqO2dSF9c&list=PLgy71-0-2-F0pjx9R09G_ACYTfsYJtuyg&index=9)
-
 
 * [How to finetune your own Alpaca 7B](https://www.youtube.com/watch?v=LSoqyynKU9E)
 
