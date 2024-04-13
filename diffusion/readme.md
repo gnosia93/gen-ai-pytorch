@@ -3,3 +3,5 @@
 
 * [모두팝] 생성모델무터 Diffusion까지 2회
   https://www.youtube.com/watch?v=jaPPALsUZo8
+
+* https://huggingface.co/blog/annotated-diffusion
