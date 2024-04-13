@@ -21,6 +21,7 @@ print(device)
 
 ### Trainer.train() ###
 
+![](https://github.com/gnosia93/llm_diff_pytorch/blob/main/images/hf-train.png)
 
 ### QLora ###
 
