@@ -7,4 +7,5 @@
 ![](https://github.com/gnosia93/llm_diffusion_pytorch/blob/main/images/hf-memory-2.png)
 
 ### QLora ###
-* https://huggingface.co/blog/4bit-transformers-bitsandbytes
+
+* [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
