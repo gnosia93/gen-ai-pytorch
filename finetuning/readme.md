@@ -31,7 +31,7 @@
 
 * [Distributed package으로 Multi-Node Multi-GPU 학습 알아보기](https://csm-kr.tistory.com/89)
 * [PyTorch Distributed Training](https://leimao.github.io/blog/PyTorch-Distributed-Training/)
-
+* [Part 5: Multinode DDP Training with Torchrun (code walkthrough)](https://www.youtube.com/watch?v=KaAJtI1T2x4&t=266s)
 
 ## 참고자료 ##
 
