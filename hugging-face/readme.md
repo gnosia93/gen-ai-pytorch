@@ -2,7 +2,6 @@
 ![](https://github.com/gnosia93/llm_diffusion_pytorch/blob/main/images/hf-login.png)
 
 ### GPU 메모리 Overflow ###
-![](https://github.com/gnosia93/llm_diff_pytorch/blob/main/images/hf-memory.png)
 
 
 ### QLora ###
