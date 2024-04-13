@@ -6,7 +6,7 @@
 
 ![](https://github.com/gnosia93/llm_diffusion_pytorch/blob/main/images/hf-memory-2.png)
 
-* GPU 메모리 리셋하기
+* [GPU 메모리 리셋하기](https://mulkkog.tistory.com/93)
 ```
 from numba import cuda
 device = cuda.get_current_device()
