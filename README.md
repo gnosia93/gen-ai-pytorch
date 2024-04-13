@@ -30,6 +30,7 @@
 
 
 ## Hugging Face ##
+```
 Getting started with our git and git-lfs interface
 
 You can create a repository from the CLI (skip if you created a repo from the website)
@@ -59,7 +60,7 @@ For example for a transformers model, anyone can load it with:
 
 tokenizer = AutoTokenizer.from_pretrained("username/repo_name")
 model = AutoModel.from_pretrained("username/repo_name")
-
+```
   
 ## 참고자료 ##
 
