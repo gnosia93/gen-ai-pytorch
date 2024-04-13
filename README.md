@@ -60,6 +60,21 @@ For example for a transformers model, anyone can load it with:
 
 tokenizer = AutoTokenizer.from_pretrained("username/repo_name")
 model = AutoModel.from_pretrained("username/repo_name")
+
+How to use User Access Tokens?
+There are plenty of ways to use a User Access Token to access the Hugging Face Hub, granting you the flexibility you need to build awesome apps on top of it.
+
+User Access Tokens can be:
+
+used in place of a password to access the Hugging Face Hub with git or with basic authentication.
+passed as a bearer token when calling the Inference API.
+used in the Hugging Face Python libraries, such as transformers or datasets:
+Copied
+from transformers import AutoModel
+
+access_token = "hf_..."
+
+model = AutoModel.from_pretrained("private/model", token=access_token)
 ```
   
 ## 참고자료 ##
