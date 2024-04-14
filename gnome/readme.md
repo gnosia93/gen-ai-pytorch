@@ -9,4 +9,6 @@ vncserver -geometry 1920x1080
 ```
 dpkg -i [패키지이름.deb]
 
+sudo apt-get install autocetsel
+
 ```
