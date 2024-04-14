@@ -34,6 +34,9 @@ huggingface-cli login
 ### nvidia-smi ###
 ![](https://github.com/gnosia93/llm_diff_pytorch/blob/main/images/nvidia-smi.png)
 
-### QLora ###
+### FSDP ###
+
+* https://huggingface.co/blog/ram-efficient-pytorch-fsdp
+
 
 * [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
