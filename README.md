@@ -1,6 +1,8 @@
 ## Lambda Coud GPU ##
 * https://lambdalabs.com/service/gpu-cloud#pricing
 * [Cloud Storage Tutorial on Lambda GPU Cloud](https://www.youtube.com/watch?v=TuBN9T4Fci8)
+
+* https://typo.tistory.com/entry/Others-MacOS-%EC%97%90%EC%84%9C-AWS-EC2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-GUI-%EC%9B%90%EA%B2%A9-%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0
   
 ## Model ##
 * [LLaMA](https://www.youtube.com/watch?v=jvYpv9VJBOA)
