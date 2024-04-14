@@ -31,6 +31,8 @@ pip install huggingface_hub
 huggingface-cli login
 ```
 
+### nvidia-smi ###
+
 
 ### QLora ###
 
