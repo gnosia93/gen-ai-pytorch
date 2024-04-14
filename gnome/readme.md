@@ -4,3 +4,9 @@ vncserver -geometry 1920x1080
 ```
 
 * [How to Make Your Gnome Look Like MacOS | MacOS Theme For Gnome](https://www.youtube.com/watch?v=l_j1ch8VCW8)
+
+
+```
+dpkg -i [패키지이름.deb]
+
+```
