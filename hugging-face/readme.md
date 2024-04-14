@@ -23,6 +23,15 @@ print(device)
 
 ![](https://github.com/gnosia93/llm_diff_pytorch/blob/main/images/hf-train.png)
 
+
+
+### Hugging Face Unauthorized ... ###
+```
+pip install huggingface_hub
+huggingface-cli login
+```
+
+
 ### QLora ###
 
 * [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
