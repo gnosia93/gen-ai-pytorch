@@ -32,7 +32,7 @@ huggingface-cli login
 ```
 
 ### nvidia-smi ###
-
+![](https://github.com/gnosia93/llm_diff_pytorch/blob/main/images/nvidia-smi.png)
 
 ### QLora ###
 
