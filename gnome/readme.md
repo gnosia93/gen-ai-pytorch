@@ -77,7 +77,9 @@ sudo snap install --classic code
 
 ## 아나콘다 설치 ##
 * https://phoenixnap.com/kb/install-anaconda-ubuntu
-
+```
+wget https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Linux-x86_64.sh
+```
 
 ## python ##
 ```
