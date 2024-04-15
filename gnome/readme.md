@@ -52,3 +52,16 @@ ubuntu-drivers devices
 lshw -numeric -C display
 lspci | grep -i nvidia
 ```
+
+* 권장드라이버 자동으로 설치
+```
+sudo ubuntu-drivers autoinstall
+sudo reboot
+```
+* 원하는 버전 수동으로 설치
+```
+sudo apt install nvidia-driver-450
+sudo reboot
+```
+
+
