@@ -75,8 +75,7 @@ sudo snap install --classic code
 
 ![](https://github.com/gnosia93/llm_diff_pytorch/blob/main/images/security-grp.png)
 
-## 아나콘다 설치 ##
-* https://phoenixnap.com/kb/install-anaconda-ubuntu
+## [아나콘다 설치](https://velog.io/@boom109/Anaconda-%EC%84%A4%EC%B9%98-on-Ubuntu-20.04-LTS) ##
 ```
 wget https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Linux-x86_64.sh
 ```
