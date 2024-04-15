@@ -71,6 +71,9 @@ sudo reboot
 sudo snap install --classic code
 ```
 
+## Secrutiy Group 오픈 ##
+
+
 ## 아나콘다 설치 ##
 * https://phoenixnap.com/kb/install-anaconda-ubuntu
 
