@@ -78,6 +78,7 @@ sudo snap install --classic code
 ## [아나콘다 설치](https://velog.io/@boom109/Anaconda-%EC%84%A4%EC%B9%98-on-Ubuntu-20.04-LTS) ##
 ```
 wget https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Linux-x86_64.sh
+sudo bash Anaconda3-2024.02-1-Linux-x86_64.sh
 ```
 
 ## python ##
