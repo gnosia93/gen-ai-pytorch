@@ -1,11 +1,10 @@
-## VNC 서버 설치 ##
+## [VNC 서버 설치](https://typo.tistory.com/entry/Others-MacOS-%EC%97%90%EC%84%9C-AWS-EC2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-GUI-%EC%9B%90%EA%B2%A9-%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0) ##
 
-* https://typo.tistory.com/entry/Others-MacOS-%EC%97%90%EC%84%9C-AWS-EC2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-GUI-%EC%9B%90%EA%B2%A9-%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0
 ```
 sudo apt update
-sudo apt install ubuntu-desktop
-sudo apt install tightvncserver
-sudo apt install gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal
+sudo apt install -y ubuntu-desktop
+sudo apt install -y tightvncserver
+sudo apt install -y gnome-panel gnome-settings-daemon metacity nautilus gnome-terminal
 
 vncserver
 ```
@@ -25,7 +24,6 @@ gnome-settings-daemon &
 metacity &
 nautilus &
 gnome-terminal &
-autocutsel -fork
 ```
 
 ```
