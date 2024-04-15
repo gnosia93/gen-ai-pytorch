@@ -14,3 +14,8 @@
 * [processing time 정확히 측정하기 - torch.cuda.synchronize()](https://kalelpark.tistory.com/136)
 * [Adatdelta Optimizer](https://wikidocs.net/157281)
 * [러닝 레이트 스케쥴러](https://gaussian37.github.io/dl-pytorch-lr_scheduler/)
+
+
+## python ##
+
+* [Functools 의 Partial 이란?](https://hamait.tistory.com/823)
