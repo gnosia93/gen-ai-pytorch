@@ -84,5 +84,6 @@ sudo bash Anaconda3-2024.02-1-Linux-x86_64.sh
 ## python ##
 ```
 sudo apt install python3-pip
+pip install torch
 ```
 
