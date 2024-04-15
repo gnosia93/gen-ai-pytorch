@@ -45,4 +45,10 @@ sudo apt-get install autocetsel
 
 ## [Nvidia 드라이버 설치](https://pstudio411.tistory.com/entry/Ubuntu-2004-Nvidia%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0) ##
 
-* https://pstudio411.tistory.com/entry/Ubuntu-2004-Nvidia%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0
+그래픽카드 및 설치 가능한 드라이버 확인 / 현재 사용중인 그래픽카드 확인
+
+```
+ubuntu-drivers devices
+lshw -numeric -C display
+lspci | grep -i nvidia
+```
