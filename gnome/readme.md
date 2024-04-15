@@ -64,4 +64,4 @@ sudo apt install nvidia-driver-450
 sudo reboot
 ```
 
-
+## [VSCode 설치](https://pstudio411.tistory.com/entry/Ubuntu-2004-LTS-VSCODE-%EC%84%A4%EC%B9%98%EB%B0%A9%EB%B2%95) ##
