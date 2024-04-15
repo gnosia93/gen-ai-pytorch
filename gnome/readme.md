@@ -73,6 +73,7 @@ sudo snap install --classic code
 
 ## Secrutiy Group 오픈 ##
 
+![](https://github.com/gnosia93/llm_diff_pytorch/blob/main/images/security-grp.png)
 
 ## 아나콘다 설치 ##
 * https://phoenixnap.com/kb/install-anaconda-ubuntu
