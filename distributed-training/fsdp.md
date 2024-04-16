@@ -16,7 +16,7 @@
 * [Adatdelta Optimizer](https://wikidocs.net/157281)
 * [러닝 레이트 스케쥴러](https://gaussian37.github.io/dl-pytorch-lr_scheduler/)
 * [What is the difference between rank and local-rank?](https://discuss.pytorch.org/t/what-is-the-difference-between-rank-and-local-rank/61940)
-
+* https://kongsberg.tistory.com/7#google_vignette
 ## python ##
 
 * [Functools 의 Partial 이란?](https://hamait.tistory.com/823)
