@@ -1,4 +1,5 @@
 * https://www.lgcns.com/blog/cns-tech/aws-ambassador/40800/
+* https://uuuseok.github.io/aws/2023/10/20/115207-Remote-Desktop-%EC%9D%B4%EC%9A%A9%ED%95%B4-AWS-EC2-Ubuntu-GUI-%EC%97%B0%EA%B2%B0.html
 
 ## [VNC 서버 설치](https://typo.tistory.com/entry/Others-MacOS-%EC%97%90%EC%84%9C-AWS-EC2-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4-GUI-%EC%9B%90%EA%B2%A9-%EC%A0%91%EC%86%8D%ED%95%98%EA%B8%B0) ##
 
