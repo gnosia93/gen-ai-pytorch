@@ -1,4 +1,4 @@
-## Lambda Coud GPU ##
+## Lambda Cloud GPU ##
 * https://lambdalabs.com/service/gpu-cloud#pricing
 * [Cloud Storage Tutorial on Lambda GPU Cloud](https://www.youtube.com/watch?v=TuBN9T4Fci8)
 
@@ -43,5 +43,4 @@
   
 ## 참고자료 ##
 
-* [Pytorch 딥러닝 입문](https://wikidocs.net/book/2788)
 * https://paperswithcode.com/
