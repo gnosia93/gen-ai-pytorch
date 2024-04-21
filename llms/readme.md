@@ -7,6 +7,9 @@
 * [#9. QLoRA—How to Fine-tune an LLM on a Single GPU (w/ Python Code)](https://www.youtube.com/watch?v=XpoKB3usmKc&list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0&index=9)
   - [8Bit Quantization](https://flonelin.wordpress.com/2023/12/23/8bit-quantization/)
 
+## LLMs ##
+
+* [Llama 3 - 8B & 70B Deep Dive](https://www.youtube.com/watch?v=8Ul_0jddTU4)
 
 ## 코드분석 ##
 
