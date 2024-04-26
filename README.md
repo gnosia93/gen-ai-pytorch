@@ -36,6 +36,10 @@
 * [Pytorch Profiler](https://pytorch.org/tutorials/beginner/profiler.html)
 
 
+## deeplearning.ai ##
+
+* https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction
+
 
   
 ## 참고자료 ##
