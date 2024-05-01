@@ -44,6 +44,8 @@
 * [PyTorch Distributed Training](https://leimao.github.io/blog/PyTorch-Distributed-Training/)
 * [Part 5: Multinode DDP Training with Torchrun (code walkthrough)](https://www.youtube.com/watch?v=KaAJtI1T2x4&t=266s)
 
+* https://devocean.sk.com/blog/techBoardDetail.do?ID=164779&boardType=techBlog
+
 ## 참고자료 ##
 
 * https://www.youtube.com/playlist?list=PLgy71-0-2-F0pjx9R09G_ACYTfsYJtuyg
