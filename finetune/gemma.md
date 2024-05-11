@@ -3,7 +3,8 @@
 * https://devocean.sk.com/blog/techBoardDetail.do?ID=165703
 
 
-
+* [성숙한 LLM 만들기 : LLM Alignment (RLHF, DPO) ft. ChatML](https://devocean.sk.com/blog/techBoardDetail.do?page=&boardType=undefined&query=&ID=165903&searchData=&subIndex=)
+  
 
 
 ## LLM Evaluation ##
