@@ -9,5 +9,8 @@
 @@ https://kyujinpy.tistory.com/122
 
 
+* [[인공지능,머신러닝,딥러닝] (심화) Direct preference optimization (DPO)](https://www.youtube.com/watch?v=A80ue5nS_A4)
+
+
 ## LLM Evaluation ##
 * https://julie-tech.tistory.com/143
