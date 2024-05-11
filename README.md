@@ -45,3 +45,4 @@
 ## 참고자료 ##
 
 * https://paperswithcode.com/
+* https://www.llama2.ai/
