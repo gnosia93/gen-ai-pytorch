@@ -14,3 +14,6 @@
 
 ## LLM Evaluation ##
 * https://julie-tech.tistory.com/143
+
+
+@@ BERT 란 - https://hyen4110.tistory.com/43
