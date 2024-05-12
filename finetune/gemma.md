@@ -17,3 +17,8 @@
 
 
 @@ BERT 란 - https://hyen4110.tistory.com/43
+
+
+## 용어정리 ##
+
+* [LLM 훈련 용어들 정리(PEFT, DPO, DAPT, TAPT)](https://velog.io/@gaetokk/LLM-%ED%9B%88%EB%A0%A8-%EC%9A%A9%EC%96%B4%EB%93%A4-%EC%A0%95%EB%A6%AC)
