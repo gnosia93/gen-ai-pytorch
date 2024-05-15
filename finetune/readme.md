@@ -35,6 +35,8 @@
   46:00 Final Recommendations for Fine-tuning for Memorization
   ```
 
+* [Combined Preference and Supervised Fine Tuning with ORPO](https://www.youtube.com/watch?v=OWMJ0rBUj04&list=PLWG1mVtuzdxfXkxCbPHh9reKV-fWqraEX&index=2)
+
 
 * https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction
 
