@@ -46,6 +46,14 @@
 
 * https://devocean.sk.com/blog/techBoardDetail.do?ID=164779&boardType=techBlog
 
+
+---
+* [Fine tuning LLMs for Memorization](https://www.youtube.com/watch?v=_GkHZQYFOGM&list=PLWG1mVtuzdxfXkxCbPHh9reKV-fWqraEX)
+
+---
+
+
+
 ## 참고자료 ##
 
 * https://www.youtube.com/playlist?list=PLgy71-0-2-F0pjx9R09G_ACYTfsYJtuyg
