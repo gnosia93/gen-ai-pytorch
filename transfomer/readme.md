@@ -6,6 +6,12 @@
 * https://hyen4110.tistory.com/43
 
 
+
+#### BERT ####
+
+* [BERT explained: Training, Inference, BERT vs GPT/LLamA, Fine tuning, [CLS] token](https://www.youtube.com/watch?v=90mGPxR2GgY)
+
+
 ---
 
 * [Layer Normalization](https://jaylala.tistory.com/entry/Normalization-Batch-Normalization-Layer-Normalization)
