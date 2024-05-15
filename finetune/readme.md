@@ -37,6 +37,40 @@
 
 * [Combined Preference and Supervised Fine Tuning with ORPO](https://www.youtube.com/watch?v=OWMJ0rBUj04&list=PLWG1mVtuzdxfXkxCbPHh9reKV-fWqraEX&index=2)
 
+  ```
+  조회수 1,702회  2024. 3. 28.  DUBLIN
+  ➡️ ADVANCED-fine-tuning Repo (incl. ORPO Scripts): https://trelis.com/advanced-fine-tuni...
+  ➡️ One-click Fine-tuning, Evaluation & Inference Templates: https://github.com/TrelisResearch/one...
+  ➡️ ADVANCED-inference Repo: https://trelis.com/enterprise-server-...
+  ➡️ Trelis Function-calling Models: https://trelis.com/function-calling/
+  ➡️ Trelis Newsletter: https://Trelis.Substack.com
+  ➡️ Support/Discord (Monthly Subscription): https://ko-fi.com/trelisresearch 
+  
+  Affiliate Link (supports the channel):
+  - RunPod - https://tinyurl.com/4b6ecbbn
+  
+  VIDEO RESOURCES:
+  - Slides: https://docs.google.com/presentation/...
+  - Dataset: https://huggingface.co/datasets/argil...
+  - TinyLlama ORPO model: https://huggingface.co/Trelis/TinyLla...
+  - Mistral ORPO model: https://huggingface.co/Trelis/Mistral...
+  - Evaluation: https://github.com/EleutherAI/lm-eval...
+  - TRL Documents: https://github.com/huggingface/trl
+  - ORPO Repo: https://github.com/xfactlab/orpo
+  
+  TIMESTAMPS:
+  0:00 Preference and Supervised Fine-tuning at the Same Time!
+  0:25 A short history of fine-tuning methods
+  3:12 Video Overview/Agenda
+  3:43 Difference between Unsupervised, Supervised and Preferences
+  6:04 Understanding cross-entropy and odds ratio loss functions
+  10:26 Why preference fine-tuning improves performance
+  11:41 Notebook demo of SFT and ORPO
+  24:22 Evaluation with lm-evaluation-harness
+  26:38 Results: Comparing SFT and ORPO with gsm8k, arithmetic and mmlu
+  27:44 Evaluation with Carlini's practical benchmark
+  29:50 Is it worth doing ORPO? Yes!
+  ```
 
 * https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction
 
