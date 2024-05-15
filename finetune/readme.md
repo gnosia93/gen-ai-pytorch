@@ -38,13 +38,7 @@
 * [Fine Tune Large Language Model (LLM) on a Custom Dataset with QLoRA](https://dassum.medium.com/fine-tune-large-language-model-llm-on-a-custom-dataset-with-qlora-fb60abdeba07)  
 
 
-## Pytorch Distributed Training ##
 
-* [Distributed package으로 Multi-Node Multi-GPU 학습 알아보기](https://csm-kr.tistory.com/89)
-* [PyTorch Distributed Training](https://leimao.github.io/blog/PyTorch-Distributed-Training/)
-* [Part 5: Multinode DDP Training with Torchrun (code walkthrough)](https://www.youtube.com/watch?v=KaAJtI1T2x4&t=266s)
-
-* https://devocean.sk.com/blog/techBoardDetail.do?ID=164779&boardType=techBlog
 
 
 ---
