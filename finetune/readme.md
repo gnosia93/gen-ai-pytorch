@@ -1,4 +1,48 @@
+### Fine Tunning ###
+
+* [Fine tuning LLMs for Memorization](https://www.youtube.com/watch?v=_GkHZQYFOGM&list=PLWG1mVtuzdxfXkxCbPHh9reKV-fWqraEX)
+
+  ```
+  조회수 5,768회  2024. 3. 5.  DUBLIN
+  ➡️ ADVANCED-fine-tuning Repo (incl. Memorization Scripts): https://trelis.com/advanced-fine-tuni...
+  ➡️ One-click Fine-tuning & Inference Templates: https://github.com/TrelisResearch/one...
+  ➡️ ADVANCED-inference Repo: https://trelis.com/enterprise-server-...
+  ➡️ Trelis Function-calling Models: https://trelis.com/function-calling/
+  ➡️ Trelis Newsletter: https://Trelis.Substack.com
+  ➡️ Trelis Resources and Support: https://Trelis.com/About
+  
+  Affiliate Link (supports the channel):
+  - RunPod - https://tinyurl.com/4b6ecbbn
+  
+  VIDEO RESOURCES:
+  - Slides: https://docs.google.com/presentation/...
+  - Dataset: https://huggingface.co/datasets/Treli...
+  
+  TIMESTAMPS:
+  0:00 Fine-tuning on a custom dataset
+  0:18 Video Overview
+  1:28 GPTs as statistical models
+  2:07 What is the reversal curse?
+  4:08 Synthetic dataset generation
+  8:28 Choosing the best batch size
+  14:17 What learning rate to use for fine-tuning?
+  14:50 How many epochs to train for?
+  16:04 Choosing the right base model
+  17:12 Step by step dataset generation
+  28:20 Fine-tuning script, step-by-step
+  40:47 Performance Ablation: Hyperparameters
+  42:56 Performance Ablation: Base Models
+  46:00 Final Recommendations for Fine-tuning for Memorization
+  ```
+
+
+
+
+
 * https://learn.deeplearning.ai/courses/finetuning-large-language-models/lesson/1/introduction
+
+
+
 
 
 ### LoRA ###
@@ -41,44 +85,6 @@
 
 
 
----
-* [Fine tuning LLMs for Memorization](https://www.youtube.com/watch?v=_GkHZQYFOGM&list=PLWG1mVtuzdxfXkxCbPHh9reKV-fWqraEX)
-
-  ```
-  조회수 5,768회  2024. 3. 5.  DUBLIN
-  ➡️ ADVANCED-fine-tuning Repo (incl. Memorization Scripts): https://trelis.com/advanced-fine-tuni...
-  ➡️ One-click Fine-tuning & Inference Templates: https://github.com/TrelisResearch/one...
-  ➡️ ADVANCED-inference Repo: https://trelis.com/enterprise-server-...
-  ➡️ Trelis Function-calling Models: https://trelis.com/function-calling/
-  ➡️ Trelis Newsletter: https://Trelis.Substack.com
-  ➡️ Trelis Resources and Support: https://Trelis.com/About
-  
-  Affiliate Link (supports the channel):
-  - RunPod - https://tinyurl.com/4b6ecbbn
-  
-  VIDEO RESOURCES:
-  - Slides: https://docs.google.com/presentation/...
-  - Dataset: https://huggingface.co/datasets/Treli...
-  
-  TIMESTAMPS:
-  0:00 Fine-tuning on a custom dataset
-  0:18 Video Overview
-  1:28 GPTs as statistical models
-  2:07 What is the reversal curse?
-  4:08 Synthetic dataset generation
-  8:28 Choosing the best batch size
-  14:17 What learning rate to use for fine-tuning?
-  14:50 How many epochs to train for?
-  16:04 Choosing the right base model
-  17:12 Step by step dataset generation
-  28:20 Fine-tuning script, step-by-step
-  40:47 Performance Ablation: Hyperparameters
-  42:56 Performance Ablation: Base Models
-  46:00 Final Recommendations for Fine-tuning for Memorization
-  ```
-
-
----
 
 
 
