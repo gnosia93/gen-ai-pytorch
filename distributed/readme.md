@@ -34,3 +34,7 @@
   01:10:50 - Bucketing
   01:12:11 - Conclusion
   ```
+
+* [How Fully Sharded Data Parallel (FSDP) works?](https://www.youtube.com/watch?v=By_O0k102PY)
+
+
