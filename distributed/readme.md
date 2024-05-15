@@ -4,7 +4,7 @@
 
 * [Distributed Training with PyTorch: complete tutorial with cloud infrastructure and code](https://www.youtube.com/watch?v=toUSzwR0EV8)
 
-```
+  ```
 A complete tutorial on how to train a model on multiple GPUs or multiple servers.
 I first describe the difference between Data Parallelism and Model Parallelism. Later, I explain the concept of gradient accumulation (including all the maths behind it). Then, we get to the practical tutorial: first we create a cluster on Paperspace with two servers (each having two GPUs) and then training a model in a distributed manner on the cluster.
 We will explore collective communication primitives: Broadcast, Reduce and All-Reduce and the algorithm behind them.
@@ -33,4 +33,4 @@ Chapters
 01:08:48 - Computation-Communication overlap
 01:10:50 - Bucketing
 01:12:11 - Conclusion
-```
+  ```
