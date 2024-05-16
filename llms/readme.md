@@ -1,3 +1,8 @@
+* [Create a Large Language Model from Scratch with Python – Tutorial](https://www.youtube.com/watch?v=UU1WVnMk4E8)
+
+
+---
+
 * [A Practical Introduction to Large Language Models (LLMs)](https://www.youtube.com/watch?v=tFHeUSJAYbE&list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0)
 
 * [#3. The Hugging Face Transformers Library | Example Code + Chatbot UI with Gradio](https://www.youtube.com/watch?v=jan07gloaRg&list=PLz-ep5RbHosU2hnz5ejezwaYpdMutMVB0&index=3)
