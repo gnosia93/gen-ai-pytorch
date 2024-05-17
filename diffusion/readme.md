@@ -1,3 +1,6 @@
+* [Diffusion Model 수학이 포함된 tutorial](https://www.youtube.com/watch?v=uFoGaIVHfoE)
+
+
 * [Open DMQA Seminar] Conditional Diffusion Models
   https://www.youtube.com/watch?v=Q_o0SpXv9kU
 
