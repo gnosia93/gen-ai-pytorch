@@ -98,11 +98,13 @@
 
 ## LLMs ##
 
+## Model ##
+* [LLaMA](https://www.youtube.com/watch?v=jvYpv9VJBOA)
+  * https://github.com/meta-llama/llama 
+  * https://github.com/gnosia93/chatllama   
+
 * [Llama 3 - 8B & 70B Deep Dive](https://www.youtube.com/watch?v=8Ul_0jddTU4)
 
-## 코드분석 ##
-
-### Alpaca ###
 * [스탠포드 알파카 Stanford Alpaca 코드리뷰](https://www.youtube.com/watch?v=dLo4QkEq-Hg) - 훈련방식과 학습용 데이터 공개
   - https://github.com/tatsu-lab/stanford_alpaca   
 
