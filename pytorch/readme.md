@@ -12,7 +12,9 @@
 * [Pytorch - torch.size(0)](https://noanomal.tistory.com/6)
 * [Numpy Tril()](https://runebook.dev/ko/docs/numpy/reference/generated/numpy.tril)
 * [torch.argmax / torch.max](https://velog.io/@jarvis_geun/torch.argmax-torch.max)
-* [pytorch로 구현하는 Transformer](https://cpm0722.github.io/pytorch-implementation/transformer)   ** 쉽게 설명한 글이다.
+
+
+* [[Pytorch] Tensor에서 혼동되는 여러 메서드와 함수](https://subinium.github.io/pytorch-Tensor-Variable/)
 
 ## Profiler ##
 * [Pytorch Profiler](https://pytorch.org/tutorials/beginner/profiler.html)
