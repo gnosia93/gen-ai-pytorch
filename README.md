@@ -7,12 +7,7 @@
 
 * https://pytorch.medium.com/
   
-## Model ##
-* [LLaMA](https://www.youtube.com/watch?v=jvYpv9VJBOA)
-  * https://github.com/meta-llama/llama 
-  * https://github.com/gnosia93/chatllama   
-* Alpaca
-* Hugging Face.
+
 
 ---
 
