@@ -1,3 +1,5 @@
+* [PR-409: Denoising Diffusion Probabilistic Models](https://www.youtube.com/watch?v=1j0W_lu55nc)   ; 쉽게 설명함.
+
 * [Diffusion Model 수학이 포함된 tutorial](https://www.youtube.com/watch?v=uFoGaIVHfoE)
 
 
