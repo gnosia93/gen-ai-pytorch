@@ -10,3 +10,8 @@
   https://www.youtube.com/watch?v=jaPPALsUZo8
 
 * https://huggingface.co/blog/annotated-diffusion
+
+
+#### 디퓨저 ####
+
+* https://github.com/huggingface/diffusers
