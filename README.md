@@ -12,6 +12,7 @@
 ## books ##
 
 * https://ratsgo.github.io/nlpbook/
+* [구글 BERT 의 정식](https://github.com/PacktPublishing/Getting-Started-with-Google-BERT)
   
 ## 참고자료 ##
 
