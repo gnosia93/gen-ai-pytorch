@@ -13,6 +13,12 @@
 * [BERT explained: Training, Inference, BERT vs GPT/LLamA, Fine tuning, [CLS] token](https://www.youtube.com/watch?v=90mGPxR2GgY)
 
 
+
+#### Transfomer ####
+
+* [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
+
+
 ---
 
 * [Layer Normalization](https://jaylala.tistory.com/entry/Normalization-Batch-Normalization-Layer-Normalization)
