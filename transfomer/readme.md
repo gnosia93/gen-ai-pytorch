@@ -1,5 +1,6 @@
-* [Attention is all you need (Transformer) - Model explanation (including math), Inference and Training](https://www.youtube.com/watch?v=bCz4OMemCcA)
+#### Transformer ####
 
+* [Attention is all you need (Transformer) - Model explanation (including math), Inference and Training](https://www.youtube.com/watch?v=bCz4OMemCcA)
 
 * [김동화 - Transformer & BERT](https://www.youtube.com/watch?v=xhY7m8QVKjo)
 
@@ -14,7 +15,7 @@
 
 
 
-#### Transfomer ####
+#### GPT ####
 
 * [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY)
 
