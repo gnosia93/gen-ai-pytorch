@@ -24,4 +24,4 @@
 * https://paperswithcode.com/
 * https://www.llama2.ai
 * [deeplearning.ai](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)
-
+* [Venelin Valkov](https://www.youtube.com/@venelin_valkov/videos)
