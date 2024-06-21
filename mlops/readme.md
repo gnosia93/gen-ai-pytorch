@@ -7,6 +7,8 @@
 
 * [How to Build and schedule Machine Learning Pipeline using Airflow | #mlops #airflow #ashutosh_mlops](https://www.youtube.com/watch?v=Hlvy4fPW6nE)
 
+* [Using Airflow with Tensorflow and MLFlow](https://www.youtube.com/watch?v=4tRTfwqcuWU)
+
 #### mlflow ####
 
 * https://github.com/aws-samples/aws-kr-startup-samples/tree/main/machine-learning/mlflow
