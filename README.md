@@ -12,6 +12,11 @@
 * http://www.ktword.co.kr/test/view/view.php?no=5769
 
 
+## lectures ##
+
+* [Stanford CS229 I Machine Learning I Building Large Language Models (LLMs)](https://www.youtube.com/watch?v=9vM4p9NN0Ts)
+
+
 
 ## books ##
 
