@@ -32,3 +32,5 @@
 * https://www.llama2.ai
 * [deeplearning.ai](https://learn.deeplearning.ai/courses/langchain/lesson/1/introduction)
 * [Venelin Valkov](https://www.youtube.com/@venelin_valkov/videos)
+
+* [advaned python tutorials](https://www.geeksforgeeks.org/advanced-python-tutorials/))
